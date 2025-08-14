@@ -1,0 +1,11 @@
+* {
+        font-family: Arial;
+        text-align: center;
+        background-color: lightpink
+}
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
