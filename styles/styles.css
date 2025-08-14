@@ -1,0 +1,46 @@
+body {
+    background-color: lightpink;
+}
+
+.portfolio{
+    background-color: linen ;
+    width: 40%;
+    margin: 50px auto;
+    text-align: center;
+    padding: 20px;
+    border: 10px solid indianred;
+    border-radius: 20px;
+}
+
+.work-display p{
+    margin-top: 0;
+    margin-bottom: 15px;
+    padding: 0
+}
+
+nav p {
+    margin: 7px 0
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 20px
+}
+
+hr {
+    height: 3px;
+    background-color:grey;
+    margin-top: 30px
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 80%;
+    border: 7px solid lightcoral;
+    border-radius: 20px;
+}
