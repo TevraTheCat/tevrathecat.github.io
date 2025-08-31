@@ -45,12 +45,13 @@ a {
 }
 
 .image-block {
+    display: flex;
     width: 90%;
     align-items: center;
     flex-wrap: wrap;
 }
 .image-block > img {
-    width: 40%;
+    width: 50%;
     object-fit: contain;
 }
 
